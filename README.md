@@ -8,3 +8,5 @@ Created a 9*9 sudoku along with number of errors detection.
 Future Goals:
 - Include timer
 - Add more sizes of suduko to go from easy to hard
+
+  Demo - https://srijanyad.github.io/Sudoku/
